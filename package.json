@@ -1,0 +1,22 @@
+{
+  "name": "6.23daohang",
+  "version": "0.0.0",
+  "description": "7k7k专题活动，通用导航",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "dependencies": {
+    "grunt": "^0.4.5"
+  },
+  "devDependencies": {
+    "grunt-contrib-concat": "^0.4.0",
+    "grunt-contrib-less": "^0.11.3",
+    "grunt-less": "^0.1.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "穆晓晨",
+  "license": "ISC"
+}
